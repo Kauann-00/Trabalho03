@@ -1,3 +1,4 @@
+//Estrutura de decisão
 package com.mycompany.calcculacomissao;
 
 import java.util.Scanner;
